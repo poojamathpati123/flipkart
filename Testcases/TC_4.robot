@@ -3,7 +3,7 @@
 Resource  ../Operational/Instructions.robot
 Resource  ../Operational/LocatorVariables.robot
 
-
+#we writes testcases
 
 *** Test Cases ***
 User should be able to search a product
